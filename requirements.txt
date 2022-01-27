@@ -12,4 +12,5 @@ asyncio
 pillow
 GitPython
 heroku3
+telethon
 
